@@ -67,4 +67,9 @@ public class Pagamento {
     @NotNull
     private Long formaDePagamentoId;
 
+    public void setStatus(com.pagamentos.demo.services.Status criado) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'setStatus'");
+    }
+
 }
